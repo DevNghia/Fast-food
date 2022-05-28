@@ -191,6 +191,5 @@ project run on `localhost:3000`
 
 Gmail: nghiahieumd@gmail.com
 
-Project Link: [https://github.com/hitd01/fast-food](https://github.com/DevNghia/Fast-food)]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
