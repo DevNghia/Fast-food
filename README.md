@@ -39,9 +39,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
 
-[![Burger King](https://github.com/hitd01/fast-food/blob/main/src/assets/screenshot.png)](https://fast-food-303bb.firebaseapp.com/)
 
 The product is the result of researching and understanding ReactJS technology.
 
@@ -189,8 +187,8 @@ project run on `localhost:3000`
 
 ## Contact
 
-HITD01 - tranhuan.dev@gmail.com
+Gmail: nghiahieumd@gmail.com
 
-Project Link: [https://github.com/hitd01/fast-food](https://github.com/hitd01/fast-food)
+Project Link: [https://github.com/hitd01/fast-food](https://github.com/DevNghia/Fast-food)]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
